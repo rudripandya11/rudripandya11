@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rudri Pandya</h1>
-<h3 align="center">As Pre Final Year Computer Science and Engineering student, I am passionate about learning the fundamental concepts of programming and software development. With a solid background in problem-solving skills, I am eager to explore the exciting world of computer science and contribute to innovative projects in the field. Through coursework and personal projects, I am developing my skills in Web Development and Data Analysis also languages such as Python and Java, as well as exploring the intersections between technology and society. I am excited to connect with fellow students and industry professionals to learn from their experiences and gain insights into the diverse applications of computer science.</h3>
+<h3 align="center">Final Year CS student | Web Dev | Data Analysis | Python | Java</h3>
 
 - 🌱 I’m currently learning **Web Development ,Data Analysis**
+
+- 📫 How to reach me **pandyarudri11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
