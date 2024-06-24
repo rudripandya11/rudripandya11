@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rudri Pandya</h1>
-<h3 align="center">Aspiring CS student harnessing Web Development and Data Analysis with Python and Java to bridge the gap between ideas and reality.</h3>
+<h3 align="center">Aspiring CS student harnessing Web Development and Data Analysis to bridge the gap between ideas and reality.</h3>
 
 - 🌱 I’m currently learning **Web Development ,Data Analysis**
 
